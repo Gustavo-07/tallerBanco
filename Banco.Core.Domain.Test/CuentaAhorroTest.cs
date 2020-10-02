@@ -3,7 +3,7 @@ using System;
 
 namespace Banco.Core.Domain.Test
 {
-    public class Tests
+    public class cuentAhorroTests
     {
         [SetUp]
         public void Setup()
